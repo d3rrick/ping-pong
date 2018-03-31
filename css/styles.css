@@ -1,0 +1,42 @@
+body{
+	background-color: #74a59a33;
+
+}
+#bgimg{
+	background-image: url("../img/land.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+#brand-name{
+	font-size: 70px;
+	color:orange;
+	 font-family: 'Indie Flower', cursive;
+}
+h1{
+	/*font-family: 'Chicle', cursive;
+	font-family: 'Chicle', cursive;*/
+    font-family: 'Indie Flower', cursive;
+    font-size: 70px;
+    color:blue;
+    
+}
+ul.navbar-nav li a{
+	color: green;
+}
+ul.navbar-nav li a:hover{
+	font-size: 50px;
+}
+
+ li.navbar-item a{
+	font-size: 40px;
+	font-family: 'Indie Flower', cursive;
+}
+li.navbar-item a:hover{
+	/*background-color:green;*/
+	font-size: 50px;
+	color: red;
+}
+#show{
+	display: none;
+}
