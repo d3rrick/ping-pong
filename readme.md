@@ -1,7 +1,7 @@
 # Ping Pong game.
 #### Created on, 29.03.2018
 #### By **Derrick**
-![GitHub Logo](img/bc3.jpeg)
+![GitHub Logo](img/ping1.png)
 
 ## Description
 This is a ping pong game that i created as a part of my third week assignment at moringa school.
@@ -24,7 +24,7 @@ Html file first created to give the site a *structure this is for emphasizing te
 ### The following are some codes
 #### Backend logic.
   
-     '''javascript
+     
       let resultsArray = [];
       function pingPongFunc (num){
         for (var i=1; i<=num; i++){
@@ -43,9 +43,11 @@ Html file first created to give the site a *structure this is for emphasizing te
         };
       };
     }
-    '''
+
+
 #### linking the logic and interface with jquery.
-    '''javascript
+
+
     $("form#counter").submit(function(event){
       event.preventDefault();
       $(".list-group").empty();
@@ -58,9 +60,9 @@ Html file first created to give the site a *structure this is for emphasizing te
     
        });
     });
-    '''
+
 #### sample output
- '''javascript
+
      1,
      2,
     'ping',
@@ -76,7 +78,8 @@ Html file first created to give the site a *structure this is for emphasizing te
       13,
       14,
     'ping pong'
-    '''
+
+
 
 ### Follow along.
 
