@@ -92,7 +92,7 @@ Html file first created to give the site a *structure this is for emphasizing te
 * Then push to the remote repository on github.**git push origin master**.
 
 ## Accessing the portfolio.
-The site can be viewed from here [ping pong blog](https://muriithiderro.github.io/portfolio/) or [ping pong github repository](https://github.com/muriithiderro/portfolio).
+The site can be viewed from here [ping pong blog](https://muriithiderro.github.io/ping-pong/) or [ping pong github repository](https://github.com/muriithiderro/ping-pong).
 
 ### copyright
 *The site and materials can be accessed by the public freely*
